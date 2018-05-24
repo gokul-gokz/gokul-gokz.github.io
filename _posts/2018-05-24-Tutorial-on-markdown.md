@@ -20,10 +20,10 @@ Example: \#Hello - ##Hello
 # Links:
 >Adding website links.
 >>Inline link:
-Example: /[visit my Github/]/(https://github.com/gokul-gokz/)
-[visit my Github](https://github.com/gokul-gokz)
+Example: >/[visit my Github/]/(https://github.com/gokul-gokz/)
+>[visit my Github](https://github.com/gokul-gokz)
 >>Reference link:
-[Reference Link]: [link1]
+[Reference Link]: [link-1]
 [link1]: https://github.com/gokul-gokz
 
 # Images:
