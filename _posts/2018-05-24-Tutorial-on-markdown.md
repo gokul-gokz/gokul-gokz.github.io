@@ -12,3 +12,8 @@ Example: ** Hello **  - **Hello**
 # Italics:
 >To make text italics, surround the words with underscore( _ ).
 Example: _ Hello _    - _Hello_
+
+# Headers:
+>There are six type of headers. You place the same number of hash marks as the size of the header you want.
+Example: # Hello  - ###Hello
+
