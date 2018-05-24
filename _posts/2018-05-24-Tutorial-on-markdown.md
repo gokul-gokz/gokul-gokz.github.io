@@ -15,5 +15,10 @@ Example: _ Hello _    - _Hello_
 
 # Headers:
 >There are six type of headers. You place the same number of hash marks as the size of the header you want.
-Example: # Hello  - ###Hello
+Example: # Hello - ###Hello
+
+# Links:
+>Adding website links.
+Example: [visit my Github](https://github.com/gokul-gokz)
+
 
