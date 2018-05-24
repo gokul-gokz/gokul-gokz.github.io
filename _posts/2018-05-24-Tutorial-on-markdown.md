@@ -23,8 +23,9 @@ Example: \#Hello - ##Hello
 Example: >/[visit my Github/]/(https://github.com/gokul-gokz/)
 >[visit my Github](https://github.com/gokul-gokz)
 >>Reference link:
-[Reference Link]: [link-1]
 [link1]: https://github.com/gokul-gokz
+[Reference Link]: [link-1]
+
 
 # Images:
 >Inserting images is also similar to links but prfixed with a exclamation mark. The text inside square brackets will give a description about the image and the image link should be inside the brackets.
