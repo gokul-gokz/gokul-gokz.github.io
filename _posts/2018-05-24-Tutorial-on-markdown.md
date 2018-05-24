@@ -7,21 +7,24 @@ Markdown is used write content on web. It's the nerd way of writting web content
 
 # Bold:
 >To make text bold, surround the words with asterik( ** ).
-Example: ** Hello **  - **Hello**
+Example: \*\*Hello \*\*  - **Hello**
 
 # Italics:
 >To make text italics, surround the words with underscore( _ ).
-Example: _ Hello _    - _Hello_
+Example: \_Hello\_    - _Hello_
 
 # Headers:
 >There are six type of headers. You place the same number of hash marks as the size of the header you want.
-Example: # Hello - ###Hello
+Example: \#Hello - ##Hello
 
 # Links:
 >Adding website links.
 >>Inline link:
-Example: [visit my Github](https://github.com/gokul-gokz)
+Example: /[visit my Github/]/(https://github.com/gokul-gokz/)
+[visit my Github](https://github.com/gokul-gokz)
 >>Reference link:
+[Reference Link]: [link1]
+[link1]: https://github.com/gokul-gokz
 
 # Images:
 >Inserting images is also similar to links but prfixed with a exclamation mark. The text inside square brackets will give a description about the image and the image link should be inside the brackets.
