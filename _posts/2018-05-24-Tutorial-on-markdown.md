@@ -25,7 +25,7 @@ Example: [visit my Github](https://github.com/gokul-gokz)
 
 # Images:
 >Inserting images is also similar to links but prfixed with a exclamation mark. The text inside square brackets will give a description about the image and the image link should be inside the brackets.
-Example: ![sample image](https://www.istockphoto.com/in/photo/irobot-touch-gm543190650-97417669)
+Example: ![sample image](https://www.pexels.com/photo/road-landscape-nature-forest-39811)
 
 
 
