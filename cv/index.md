@@ -46,13 +46,31 @@ bank.
 * Human-robot interaction
 * Deep learning
 
+## Skills
+--------------
+* C,C++
+* Python
+* Matlab
+* ROS
+* Gazebo
+* Solidworks
+
 ## Education
 --------------
-<p align=right>PSG College of Technology                                                                `August 2012 - April 2012` </p>
 
-Bachelor of Robotics abd Automation Engineering
+PSG College of Technology `August 2012 - April 2012` 
+
+Bachelor of Robotics and Automation Engineering
 
 GPA:8.94/10
+
+## Courses and Certifications
+-----------
+* Artificial intelligence for robots
+* Autonomous mobile robots
+* Neural Networks and deep learning
+* Structuring machine learning projects
+* Improving Deep neural networks
 
 <!-- ### Footer
 
