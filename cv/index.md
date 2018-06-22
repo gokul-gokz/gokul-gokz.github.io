@@ -2,7 +2,6 @@
 layout: cv
 title: Gokul Narayanan's CV
 ---
-->Gokul
 <p align="center">
   <b><h1>Gokul Narayanan</h1></b><br>
 </p>
@@ -10,15 +9,9 @@ title: Gokul Narayanan's CV
   <b>Telephone</b>:91-9488544250<br>
   <b>E-mail</b>:gokulnarayanan247@gmail.com
   </p>
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Professional profile
+   "Expert robot software developer with proven track record in developing motion planning and deep learning algorithms for robots and integrating them using Robot Operating System(ROS)." 
 
-
-## Currently
-
-Standing on the shoulders of giants
 
 ### Specialized in
 
