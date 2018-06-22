@@ -6,7 +6,7 @@ title: Gokul Narayanan's CV
   <b>Gokul Narayanan</b><br>
 </p>
 <p align ="right">
-  Telephone:91-9488544250
+  Telephone:91-9488544250<br>
   E-mail:gokulnarayanan247@gmail.com
   </p>
 <div id="webaddress">
