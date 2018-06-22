@@ -15,15 +15,34 @@ title: Gokul Narayanan's CV
    "Expert robot software developer with proven track record in developing motion planning and deep learning algorithms for robots and integrating them using Robot Operating System(ROS)."\With an undergraduate degree in Robotics and two years of work experience in a robotics startup , I have gathered immense knowledge and hands on experience in making robots. Has efficiently lead a team of five in the development of a mobile humanoid robot named Intelligent Robot assistant(IRA). Also worked on the inverse kinematics and motion planning aspect of manipulators. I also have hands on integrating google cloud api's with custom modules in the robot.
 
 
-### Specialized in
+## Work Experience
+--------------------
+# ASIMOV Robotics PVT Ltd, Kerala, India
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Senior Robot Software Engineer(June 2017-May 2018)
+
+* Developed custom hardware interface node using ros controllers for a 6DOF manipulator.
+* Developed inverse kinematics package for constrained motion planning problem, abstracting
+Moveit API’s .
+* Benchmarked various OMPL planners on a 6 DOF manipulator for constrained motion planning
+problem.
+* Implemented Cartesian path planner for waypoint navigation of a 6 DOF manipulator. 
+
+Robot Software Engineer(May 2016 - June 2017)
+
+* Developed top level task planner for a receptionist robot using state machines in ROS.
+* Developed overall software architecture, integrating custom built perception, navigation and
+manipulation packages in ROS for a mobile humanoid robot.
+* Deployed India’s first robotic bank assistant ‘Intelligent Robot Assistant(IRA)’ in HDFC
+bank.
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Research interests
 
+* Motion Planning
+* Human-robot interaction
+* Deep learning
 
 ## Education
 
