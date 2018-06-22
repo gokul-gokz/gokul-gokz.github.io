@@ -8,7 +8,7 @@ title: Gokul Narayanan's CV
 <p align ="right">
   <b>Telephone</b>:91-9488544250<br>
   <b>E-mail</b>:gokulnarayanan247@gmail.com<br>
-  <b>Linkidin:</b><a href="linkedin.com/in/gokul-narayanan">gokul-narayanan</a>
+  <b>Linkidin:</b><a href="www.linkedin.com/in/gokul-narayanan">gokul-narayanan</a>
   </p>
   
 ## Summary
