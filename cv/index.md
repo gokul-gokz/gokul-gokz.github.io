@@ -10,6 +10,7 @@ title: Gokul Narayanan's CV
   <b>E-mail</b>:gokulnarayanan247@gmail.com
   </p>
 ## Professional profile
+-----------------------
    "Expert robot software developer with proven track record in developing motion planning and deep learning algorithms for robots and integrating them using Robot Operating System(ROS)." 
 
 
