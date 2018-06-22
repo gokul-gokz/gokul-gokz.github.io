@@ -12,14 +12,16 @@ title: Gokul Narayanan's CV
   
 ## Professional profile
 ------------------------
-   "Expert robot software developer with proven track record in developing motion planning and deep learning algorithms for robots and integrating them using Robot Operating System(ROS)."\With an undergraduate degree in Robotics and two years of work experience in a robotics startup , I have gathered immense knowledge and hands on experience in making robots. Has efficiently lead a team of five in the development of a mobile humanoid robot named Intelligent Robot assistant(IRA). Also worked on the inverse kinematics and motion planning aspect of manipulators. I also have hands on integrating google cloud api's with custom modules in the robot.
+   "Expert robot software developer with proven track record in developing motion planning and deep learning algorithms for robots and integrating them using Robot Operating System(ROS)."
+   
+   With an undergraduate degree in Robotics and two years of work experience in a robotics startup , I have gathered immense knowledge and hands on experience in making robots. Has efficiently lead a team of five in the development of a mobile humanoid robot named Intelligent Robot assistant(IRA). Also worked on the inverse kinematics and motion planning aspect of manipulators. I also have hands on integrating google cloud api's with custom modules in the robot.
 
 
 ## Work Experience
 --------------------
-# ASIMOV Robotics PVT Ltd, Kerala, India
+### ASIMOV Robotics PVT Ltd, Kerala, India
 
-Senior Robot Software Engineer(June 2017-May 2018)
+Senior Robot Software Enginee 'June 2017-May 2018'
 
 * Developed custom hardware interface node using ros controllers for a 6DOF manipulator.
 * Developed inverse kinematics package for constrained motion planning problem, abstracting
@@ -28,7 +30,7 @@ Moveit API’s .
 problem.
 * Implemented Cartesian path planner for waypoint navigation of a 6 DOF manipulator. 
 
-Robot Software Engineer(May 2016 - June 2017)
+Robot Software Engineer 'May 2016 - June 2017'
 
 * Developed top level task planner for a receptionist robot using state machines in ROS.
 * Developed overall software architecture, integrating custom built perception, navigation and
