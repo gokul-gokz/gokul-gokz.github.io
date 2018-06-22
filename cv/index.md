@@ -11,7 +11,7 @@ title: Gokul Narayanan's CV
   <b>Linkidin:</b><a href="linkedin.com/in/gokul-narayanan">gokul-narayanan</a>
   </p>
   
-## Professional profile
+## Summary
 ------------------------
    "Expert robot software developer with proven track record in developing motion planning and deep learning algorithms for robots and integrating them using Robot Operating System(ROS)."
    
