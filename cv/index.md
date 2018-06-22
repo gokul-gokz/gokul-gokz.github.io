@@ -3,7 +3,7 @@ layout: cv
 title: Gokul Narayanan's CV
 ---
 <p align="center">
-#               Gokul Narayanan
+  <b>Gokul Narayanan</b>
 Physicist, Mathematician, Cambridge professor.
 </p>
 <div id="webaddress">
