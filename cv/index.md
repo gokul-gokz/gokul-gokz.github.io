@@ -3,9 +3,12 @@ layout: cv
 title: Gokul Narayanan's CV
 ---
 <p align="center">
-  <b>Gokul Narayanan</b>
-Physicist, Mathematician, Cambridge professor.
+  <b>Gokul Narayanan</b><br>
 </p>
+<p align ="right">
+  Telephone:91-9488544250
+  E-mail:gokulnarayanan247@gmail.com
+  </p>
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
