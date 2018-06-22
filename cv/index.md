@@ -4,7 +4,7 @@ title: Gokul Narayanan's CV
 ---
 ->Gokul
 <p align="center">
-  <b><h1>Gokul Narayanan</h1>/b><br>
+  <b><h1>Gokul Narayanan</h1></b><br>
 </p>
 <p align ="right">
   <b>Telephone</b>:91-9488544250<br>
