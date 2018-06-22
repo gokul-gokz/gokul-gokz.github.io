@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gokul Narayanan's CV
 ---
-# Isaac Newton
+#               Gokul Narayanan
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
