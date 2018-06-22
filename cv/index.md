@@ -2,12 +2,13 @@
 layout: cv
 title: Gokul Narayanan's CV
 ---
+->Gokul
 <p align="center">
-  <b>Gokul Narayanan</b><br>
+  <b><h1>Gokul Narayanan</h1>/b><br>
 </p>
 <p align ="right">
-  Telephone:91-9488544250<br>
-  E-mail:gokulnarayanan247@gmail.com
+  <b>Telephone</b>:91-9488544250<br>
+  <b>E-mail</b>:gokulnarayanan247@gmail.com
   </p>
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
