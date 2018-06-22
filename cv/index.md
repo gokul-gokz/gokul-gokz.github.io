@@ -48,8 +48,10 @@ bank.
 
 ## Education
 --------------
-PSG College of Technology <p align=right> `August 2012 - April 2012` </p>
+<p align=right>PSG College of Technology                                                                `August 2012 - April 2012` </p>
+
 Bachelor of Robotics abd Automation Engineering
+
 GPA:8.94/10
 
 <!-- ### Footer
