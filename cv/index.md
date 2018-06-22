@@ -21,7 +21,7 @@ title: Gokul Narayanan's CV
 --------------------
 ### ASIMOV Robotics PVT Ltd, Kerala, India
 
-Senior Robot Software Enginee 'June 2017-May 2018'
+Senior Robot Software Enginee `June 2017-May 2018`
 
 * Developed custom hardware interface node using ros controllers for a 6DOF manipulator.
 * Developed inverse kinematics package for constrained motion planning problem, abstracting
@@ -30,7 +30,7 @@ Moveit API’s .
 problem.
 * Implemented Cartesian path planner for waypoint navigation of a 6 DOF manipulator. 
 
-Robot Software Engineer 'May 2016 - June 2017'
+Robot Software Engineer `May 2016 - June 2017`
 
 * Developed top level task planner for a receptionist robot using state machines in ROS.
 * Developed overall software architecture, integrating custom built perception, navigation and
