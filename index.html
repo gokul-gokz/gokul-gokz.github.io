@@ -255,8 +255,10 @@ With an undergraduate degree in Robotics and two years of work experience in a r
 	
     <div class="project shadow-large">
         <div class="project-image">
-            <img src="images/project3.png" />
-        </div>
+        <video width="300 height="300" controls>
+	  <source src="images/craniobot.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+	</video>
         <!-- End .project-image -->
         <div class="project-info">
             <h3>Craniobot</h3>
@@ -294,7 +296,7 @@ With an undergraduate degree in Robotics and two years of work experience in a r
 	</div>	
         <!-- End .project-image -->
         <div class="project-info">
-            <h3>Within manipulation using Variable friction finger gripper</h3>
+            <h3>Within Hand Manipulation using variable friction finger gripper</h3>
             <p>
            	Developed a hybrid method integrating motion planner and online visual servoing to perform within hand manipulation of objects using variable friction finger gripper. Evaluated the performance of the system with inaccuracies in the modelling of the system and uncertainities in the motion of the object. Submitted the work as a research paper in ICRA 2020 which is under review. Currently working on developing a reinforcement learning algorithm to manipulate objects without the need for explicit modelling. 
             </p>
@@ -319,36 +321,22 @@ With an undergraduate degree in Robotics and two years of work experience in a r
         <!-- End .project-info -->
    </div>
     <!-- End .project -->
+
     <div class="project shadow-large">
         <div class="project-image">
-            <img src="https://github.com/gokul-gokz/gokul-gokz.github.io/blob/master/images/EKF.gif" />
+            <img src="images/EKF.gif" />
         </div>
         <!-- End .project-image -->
         <div class="project-info">
-            <h3>Comparsion of trajectory tracking controllers using UR5 robot</h3>
+            <h3>EKF based localization for mobile robot</h3>
             <p>
-           	The aim of the project was to compare the performance of the various trajectory tracking controllers such as Inverse dynamic controller, Robust feedback linearization controller and Passivity based controller under different scenarios. All these controllers where developed in Matlab and were tested on a UR5 manipulator with a benchmark trajectory dataset.
+                The aim of the project was to implement the Extended Kalman Filter based localization for a mobile robot from scratch, to better understand the mathematical principles behind the algorithm. We developed a virtual environment in Gazebo with landmarks. Then we extracted the position of landmarks in the environment by processing the data from the 2D lidar fixed on the mobile robot. Developed the motion model and the observation model for the mobile robot in C++. Finally, we were able to estimate the position of the robot in the environment using the EKF algorithm.
             </p>
-            <a href="https://github.com/gokul-gokz/Trajectory_tracking_controllers_UR5"> View Project </a>
+            <a href="#">View Project</a>
         </div>
         <!-- End .project-info -->
-   </div>
-
-<!--    <div class="project shadow-large">-->
-<!--        <div class="project-image">-->
-<!--            <img src="images/EKF.gif" />-->
-<!--        </div>-->
-<!--        &lt;!&ndash; End .project-image &ndash;&gt;-->
-<!--        <div class="project-info">-->
-<!--            <h3>EKF based localization for mobile robot</h3>-->
-<!--            <p>-->
-<!--                The aim of the project was to implement the Extended Kalman Filter based localization for a mobile robot from scratch, to better understand the algorithm. So, we  developed a virtual environment in Gazebo. Extracted the position of landmarks in the environment by processing the 2D lidar data. Developed the motion model and the observation model for the mobile robot in C++ to perform the localization. Finally, we were able to estimate the position of the robot in the environment with less uncertainity.-->
-<!--            </p>-->
-<!--            <a href="#">View Project</a>-->
-<!--        </div>-->
-<!--        &lt;!&ndash; End .project-info &ndash;&gt;-->
-<!--    </div>-->
-<!--    &lt;!&ndash; End .project &ndash;&gt;-->
+    </div>
+    <!-- End .project -->
 
 	</div>
         </div>
